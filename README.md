@@ -1,2 +1,2 @@
 # workout.bg
-JQA Academy- ecommerce website tests
+JQA Academy- ecommerce website test cases
